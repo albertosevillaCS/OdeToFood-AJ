@@ -1,0 +1,34 @@
+﻿@page "{restaurantId:int?}"
+@model OdeToFood.Pages.Restaurants.EditModel
+@{
+
+}
+
+<h2>Editing @Model.Restaurant.Name</h2>
+
+<form method="post">
+    <input type="hidden" asp-for="Restaurant.Id" />
+    <div class="form-group">
+        <label asp-for="Restaurant.Name"></label>
+        <input asp-for="Restaurant.Name" class="form-control"/>
+        <span class="text-danger" asp-validation-for="Restaurant.Name"></span> <!-- "asp-validation-for" will look if the ModelState was valid or not, if not a default specific error message will show.  -->
+    </div>
+    <div class="form-group">
+        <label asp-for="Restaurant.Location"></label>
+        <input asp-for="Restaurant.Location" class="form-control" /> 
+        <span class="text-danger" asp-validation-for="Restaurant.Location"></span> <!-- "asp-validation-for" will look if the ModelState was valid or not, if not a default specific error message will show.  -->
+    </div>
+    <div class="form-group">
+        <label asp-for="Restaurant.Cuisine"></label>
+        <select class="form-control" asp-for="Restaurant.Cuisine" 
+                                     asp-items="Model.Cuisines">
+        </select>
+        <span class="text-danger" asp-validation-for="Restaurant.Cuisine"></span> <!-- "asp-validation-for" will look if the ModelState was valid or not, if not a default specific error message will show.  -->
+    </div>
+
+    <button type="submit" class="btn btn-primary">Save</button>
+</form>
+
+        @section Scripts {
+            <partial name="_ValidationScriptsPartial" /> <!-- This code is for Realtime Validations-->
+        }

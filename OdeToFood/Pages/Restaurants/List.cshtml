@@ -1,0 +1,45 @@
+﻿@page
+@model OdeToFood.Pages.Restaurants.ListModel
+
+<link href="//netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css" rel="stylesheet">
+
+@{
+    ViewData["Title"] = "Restaurants";
+}
+
+<h1>Restaurants</h1>
+
+<form method="get">
+
+    <div class="form-group">
+        <div class="input-group">
+            <input type="search" class="form-control" asp-for="SearchTerm"/>
+            <div class="input-group-append">
+                <button class="btn btn-secondary">
+                    <i class="fas fa-search"></i>
+                    Submit
+                </button>
+            </div>
+        </div>
+    </div>
+
+
+</form>
+
+<br />
+
+@foreach(var restaurant in Model.Restaurants)
+{
+    <partial name="_Summary" model="restaurant"/>
+}
+
+<a asp-page=".\Edit" class="btn btn-secondary">Add New</a>
+
+
+@section footer {
+    <div class="container">
+        <i>@Model.Message</i>
+    </div>
+}
+
+
