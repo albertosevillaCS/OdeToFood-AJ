@@ -1,0 +1,17 @@
+C:\Users\alberto.sevilla\source\repos\OdeToFood\OdeToFood.Data\bin\Debug\net6.0\OdeToFood.Data.deps.json
+C:\Users\alberto.sevilla\source\repos\OdeToFood\OdeToFood.Data\bin\Debug\net6.0\OdeToFood.Data.runtimeconfig.json
+C:\Users\alberto.sevilla\source\repos\OdeToFood\OdeToFood.Data\bin\Debug\net6.0\OdeToFood.Data.dll
+C:\Users\alberto.sevilla\source\repos\OdeToFood\OdeToFood.Data\bin\Debug\net6.0\OdeToFood.Data.pdb
+C:\Users\alberto.sevilla\source\repos\OdeToFood\OdeToFood.Data\bin\Debug\net6.0\OdeToFood.Core.dll
+C:\Users\alberto.sevilla\source\repos\OdeToFood\OdeToFood.Data\bin\Debug\net6.0\OdeToFood.Core.pdb
+C:\Users\alberto.sevilla\source\repos\OdeToFood\OdeToFood.Data\obj\Debug\net6.0\OdeToFood.Data.csproj.AssemblyReference.cache
+C:\Users\alberto.sevilla\source\repos\OdeToFood\OdeToFood.Data\obj\Debug\net6.0\OdeToFood.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alberto.sevilla\source\repos\OdeToFood\OdeToFood.Data\obj\Debug\net6.0\OdeToFood.Data.AssemblyInfoInputs.cache
+C:\Users\alberto.sevilla\source\repos\OdeToFood\OdeToFood.Data\obj\Debug\net6.0\OdeToFood.Data.AssemblyInfo.cs
+C:\Users\alberto.sevilla\source\repos\OdeToFood\OdeToFood.Data\obj\Debug\net6.0\OdeToFood.Data.csproj.CoreCompileInputs.cache
+C:\Users\alberto.sevilla\source\repos\OdeToFood\OdeToFood.Data\obj\Debug\net6.0\OdeToFood.Data.csproj.CopyComplete
+C:\Users\alberto.sevilla\source\repos\OdeToFood\OdeToFood.Data\obj\Debug\net6.0\OdeToFood.Data.dll
+C:\Users\alberto.sevilla\source\repos\OdeToFood\OdeToFood.Data\obj\Debug\net6.0\refint\OdeToFood.Data.dll
+C:\Users\alberto.sevilla\source\repos\OdeToFood\OdeToFood.Data\obj\Debug\net6.0\OdeToFood.Data.pdb
+C:\Users\alberto.sevilla\source\repos\OdeToFood\OdeToFood.Data\obj\Debug\net6.0\OdeToFood.Data.genruntimeconfig.cache
+C:\Users\alberto.sevilla\source\repos\OdeToFood\OdeToFood.Data\obj\Debug\net6.0\ref\OdeToFood.Data.dll
