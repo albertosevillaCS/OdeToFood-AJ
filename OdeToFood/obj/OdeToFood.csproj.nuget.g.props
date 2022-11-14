@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <RestoreSuccess Condition=" '$(RestoreSuccess)' == '' ">True</RestoreSuccess>
+    <RestoreTool Condition=" '$(RestoreTool)' == '' ">NuGet</RestoreTool>
+    <ProjectAssetsFile Condition=" '$(ProjectAssetsFile)' == '' ">$(MSBuildThisFileDirectory)project.assets.json</ProjectAssetsFile>
+    <NuGetPackageRoot Condition=" '$(NuGetPackageRoot)' == '' ">$(UserProfile)\.nuget\packages\</NuGetPackageRoot>
+    <NuGetPackageFolders Condition=" '$(NuGetPackageFolders)' == '' ">C:\Users\alberto.sevilla.CSI\.nuget\packages\</NuGetPackageFolders>
+    <NuGetProjectStyle Condition=" '$(NuGetProjectStyle)' == '' ">PackageReference</NuGetProjectStyle>
+    <NuGetToolVersion Condition=" '$(NuGetToolVersion)' == '' ">6.3.0</NuGetToolVersion>
+  </PropertyGroup>
+  <ItemGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <SourceRoot Include="C:\Users\alberto.sevilla.CSI\.nuget\packages\" />
+  </ItemGroup>
+  <ItemGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <Content Include="$(NuGetPackageRoot)odetocode.usenodemodules\3.0.0\contentFiles\any\netcoreapp3.0\Properties\launchSettings.json" Condition="Exists('$(NuGetPackageRoot)odetocode.usenodemodules\3.0.0\contentFiles\any\netcoreapp3.0\Properties\launchSettings.json')">
+      <NuGetPackageId>OdeToCode.UseNodeModules</NuGetPackageId>
+      <NuGetPackageVersion>3.0.0</NuGetPackageVersion>
+      <NuGetItemType>Content</NuGetItemType>
+      <Pack>false</Pack>
+      <Private>False</Private>
+      <Link>Properties\launchSettings.json</Link>
+    </Content>
+  </ItemGroup>
+  <ItemGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <Content Include="$(NuGetPackageRoot)datatables.net-bs5\1.13.1\contentFiles\any\any\wwwroot\css\dataTables.bootstrap5.css" Condition="Exists('$(NuGetPackageRoot)datatables.net-bs5\1.13.1\contentFiles\any\any\wwwroot\css\dataTables.bootstrap5.css')">
+      <NuGetPackageId>datatables.net-bs5</NuGetPackageId>
+      <NuGetPackageVersion>1.13.1</NuGetPackageVersion>
+      <NuGetItemType>Content</NuGetItemType>
+      <Pack>false</Pack>
+      <Private>False</Private>
+      <Link>wwwroot\css\dataTables.bootstrap5.css</Link>
+    </Content>
+    <Content Include="$(NuGetPackageRoot)datatables.net-bs5\1.13.1\contentFiles\any\any\wwwroot\css\dataTables.bootstrap5.min.css" Condition="Exists('$(NuGetPackageRoot)datatables.net-bs5\1.13.1\contentFiles\any\any\wwwroot\css\dataTables.bootstrap5.min.css')">
+      <NuGetPackageId>datatables.net-bs5</NuGetPackageId>
+      <NuGetPackageVersion>1.13.1</NuGetPackageVersion>
+      <NuGetItemType>Content</NuGetItemType>
+      <Pack>false</Pack>
+      <Private>False</Private>
+      <Link>wwwroot\css\dataTables.bootstrap5.min.css</Link>
+    </Content>
+    <Content Include="$(NuGetPackageRoot)datatables.net-bs5\1.13.1\contentFiles\any\any\wwwroot\js\dataTables.bootstrap5.js" Condition="Exists('$(NuGetPackageRoot)datatables.net-bs5\1.13.1\contentFiles\any\any\wwwroot\js\dataTables.bootstrap5.js')">
+      <NuGetPackageId>datatables.net-bs5</NuGetPackageId>
+      <NuGetPackageVersion>1.13.1</NuGetPackageVersion>
+      <NuGetItemType>Content</NuGetItemType>
+      <Pack>false</Pack>
+      <Private>False</Private>
+      <Link>wwwroot\js\dataTables.bootstrap5.js</Link>
+    </Content>
+    <Content Include="$(NuGetPackageRoot)datatables.net-bs5\1.13.1\contentFiles\any\any\wwwroot\js\dataTables.bootstrap5.min.js" Condition="Exists('$(NuGetPackageRoot)datatables.net-bs5\1.13.1\contentFiles\any\any\wwwroot\js\dataTables.bootstrap5.min.js')">
+      <NuGetPackageId>datatables.net-bs5</NuGetPackageId>
+      <NuGetPackageVersion>1.13.1</NuGetPackageVersion>
+      <NuGetItemType>Content</NuGetItemType>
+      <Pack>false</Pack>
+      <Private>False</Private>
+      <Link>wwwroot\js\dataTables.bootstrap5.min.js</Link>
+    </Content>
+  </ItemGroup>
+  <ImportGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <Import Project="$(NuGetPackageRoot)microsoft.entityframeworkcore\7.0.0\buildTransitive\net6.0\Microsoft.EntityFrameworkCore.props" Condition="Exists('$(NuGetPackageRoot)microsoft.entityframeworkcore\7.0.0\buildTransitive\net6.0\Microsoft.EntityFrameworkCore.props')" />
+    <Import Project="$(NuGetPackageRoot)microsoft.entityframeworkcore.design\7.0.0\build\net6.0\Microsoft.EntityFrameworkCore.Design.props" Condition="Exists('$(NuGetPackageRoot)microsoft.entityframeworkcore.design\7.0.0\build\net6.0\Microsoft.EntityFrameworkCore.Design.props')" />
+    <Import Project="$(NuGetPackageRoot)microsoft.typescript.msbuild\4.8.4\build\Microsoft.TypeScript.MSBuild.props" Condition="Exists('$(NuGetPackageRoot)microsoft.typescript.msbuild\4.8.4\build\Microsoft.TypeScript.MSBuild.props')" />
+  </ImportGroup>
+  <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <PkgMessagePackAnalyzer Condition=" '$(PkgMessagePackAnalyzer)' == '' ">C:\Users\alberto.sevilla.CSI\.nuget\packages\messagepackanalyzer\2.1.152</PkgMessagePackAnalyzer>
+    <PkgMicrosoft_CodeAnalysis_Analyzers Condition=" '$(PkgMicrosoft_CodeAnalysis_Analyzers)' == '' ">C:\Users\alberto.sevilla.CSI\.nuget\packages\microsoft.codeanalysis.analyzers\3.3.2</PkgMicrosoft_CodeAnalysis_Analyzers>
+    <PkgMicrosoft_CodeAnalysis_AnalyzerUtilities Condition=" '$(PkgMicrosoft_CodeAnalysis_AnalyzerUtilities)' == '' ">C:\Users\alberto.sevilla.CSI\.nuget\packages\microsoft.codeanalysis.analyzerutilities\3.3.0</PkgMicrosoft_CodeAnalysis_AnalyzerUtilities>
+    <PkgMicrosoft_TypeScript_MSBuild Condition=" '$(PkgMicrosoft_TypeScript_MSBuild)' == '' ">C:\Users\alberto.sevilla.CSI\.nuget\packages\microsoft.typescript.msbuild\4.8.4</PkgMicrosoft_TypeScript_MSBuild>
+    <PkgMicrosoft_EntityFrameworkCore_Tools Condition=" '$(PkgMicrosoft_EntityFrameworkCore_Tools)' == '' ">C:\Users\alberto.sevilla.CSI\.nuget\packages\microsoft.entityframeworkcore.tools\7.0.0</PkgMicrosoft_EntityFrameworkCore_Tools>
+    <PkgjQuery Condition=" '$(PkgjQuery)' == '' ">C:\Users\alberto.sevilla.CSI\.nuget\packages\jquery\1.7.0</PkgjQuery>
+  </PropertyGroup>
+</Project>
