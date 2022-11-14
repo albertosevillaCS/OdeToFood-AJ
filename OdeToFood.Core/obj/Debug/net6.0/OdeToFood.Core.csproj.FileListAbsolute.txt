@@ -1,0 +1,14 @@
+C:\Users\alberto.sevilla\source\repos\OdeToFood\OdeToFood.Core\bin\Debug\net6.0\OdeToFood.Core.deps.json
+C:\Users\alberto.sevilla\source\repos\OdeToFood\OdeToFood.Core\bin\Debug\net6.0\OdeToFood.Core.runtimeconfig.json
+C:\Users\alberto.sevilla\source\repos\OdeToFood\OdeToFood.Core\bin\Debug\net6.0\OdeToFood.Core.dll
+C:\Users\alberto.sevilla\source\repos\OdeToFood\OdeToFood.Core\bin\Debug\net6.0\OdeToFood.Core.pdb
+C:\Users\alberto.sevilla\source\repos\OdeToFood\OdeToFood.Core\obj\Debug\net6.0\OdeToFood.Core.csproj.AssemblyReference.cache
+C:\Users\alberto.sevilla\source\repos\OdeToFood\OdeToFood.Core\obj\Debug\net6.0\OdeToFood.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alberto.sevilla\source\repos\OdeToFood\OdeToFood.Core\obj\Debug\net6.0\OdeToFood.Core.AssemblyInfoInputs.cache
+C:\Users\alberto.sevilla\source\repos\OdeToFood\OdeToFood.Core\obj\Debug\net6.0\OdeToFood.Core.AssemblyInfo.cs
+C:\Users\alberto.sevilla\source\repos\OdeToFood\OdeToFood.Core\obj\Debug\net6.0\OdeToFood.Core.csproj.CoreCompileInputs.cache
+C:\Users\alberto.sevilla\source\repos\OdeToFood\OdeToFood.Core\obj\Debug\net6.0\OdeToFood.Core.dll
+C:\Users\alberto.sevilla\source\repos\OdeToFood\OdeToFood.Core\obj\Debug\net6.0\refint\OdeToFood.Core.dll
+C:\Users\alberto.sevilla\source\repos\OdeToFood\OdeToFood.Core\obj\Debug\net6.0\OdeToFood.Core.pdb
+C:\Users\alberto.sevilla\source\repos\OdeToFood\OdeToFood.Core\obj\Debug\net6.0\OdeToFood.Core.genruntimeconfig.cache
+C:\Users\alberto.sevilla\source\repos\OdeToFood\OdeToFood.Core\obj\Debug\net6.0\ref\OdeToFood.Core.dll
